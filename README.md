@@ -1,3 +1,5 @@
+![Cover Image](assets/cover-image.png)
+
 <!-- Open Graph Meta Description
 og:title: AI Forensics — Financial System Manipulation by Autonomous AI Agents
 og:description: Comprehensive forensic analysis framework for detecting, investigating, and mitigating financial system manipulation by autonomous recursive AI agents. Covers unauthorized trading, market manipulation, account drainage, and synthetic instrument creation without human oversight.
